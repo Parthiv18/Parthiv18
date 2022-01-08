@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parthiv18
+- 👋 Hi, I’m Parthiv Patel
 - 👀 I’m interested in AI, Data Science, and Cybersecurity 
 - 🌱 I’m currently studying Computer Engineering
 - 💞️ I’m looking to collaborate on many different projects
